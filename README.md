@@ -77,7 +77,7 @@ Author(s):           Tyler Laudenslager
  9. Client exits
 
  The message protocol is described here
- http://www.tlauden.com/final_project_328/encryption.html
+ http://www.tlauden.com:8200/final_project_328/encryption.html
 
  =========================================================================
  
