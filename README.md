@@ -19,6 +19,8 @@ Author(s):           Tyler Laudenslager
  
   Language:            English (U.S.) (UTF-8)
   
+  *This project was added to Dr. Frye's Hall of Fame*
+  
   Documentation Website: http://www.tlauden.com:8200/final_project_328/index.html
  =======================================================================
  How to build and run the client and server: 
