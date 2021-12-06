@@ -4,15 +4,21 @@ Multiprocessing Network Game Application written in Python3
 =========================================================================
 
 Author(s):           Tyler Laudenslager
+
  Major:               Computer Science
+ 
  Due:                 12/2/2021
+ 
  Course:              CSC 328
+ 
  Professor:           Dr Frye
+ 
  Assignment:          (Rock, Paper, Scissors)
+ 
  File name:           readme.txt
- Purpose:             readme file for the Rock, Paper, Scissors
-                       assignment
+ 
   Language:            English (U.S.) (UTF-8)
+  
   Documentation Website: http://www.tlauden.com:8200/final_project_328/index.html
  =======================================================================
  How to build and run the client and server: 
