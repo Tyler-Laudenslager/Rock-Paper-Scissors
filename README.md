@@ -11,7 +11,7 @@ Author(s):           Tyler Laudenslager
   Purpose:             readme file for the Rock, Paper, Scissors
                        assignment
   Language:            English (U.S.) (UTF-8)
-  Documentation Website: http://www.tlauden.com/final_project_328/index.html
+  Documentation Website: http://www.tlauden.com:8200/final_project_328/index.html
  =======================================================================
  How to build and run the client and server: 
  Server:
