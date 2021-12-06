@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors
 Multiprocessing Network Game Application written in Python3
 
-Author(s):           Tyler Laudenslager\n
+Author(s):           Tyler Laudenslager
  Major:               Computer Science
  Due:                 12/2/2021
  Course:              CSC 328
