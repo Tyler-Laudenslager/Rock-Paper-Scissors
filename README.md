@@ -58,8 +58,6 @@ Author(s):           Tyler Laudenslager
  
  Responsibility Matrix:
   Tyler Laudenslager: Server, library, client
-  Tyler Nazzaro: Server, library, client
-  Christopher Pettinari: Server, library, client
  =========================================================================
  
  Application Protocol:
