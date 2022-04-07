@@ -7,11 +7,7 @@ Author(s):           Tyler Laudenslager
 
  Major:               Computer Science
  
- Due:                 12/2/2021
- 
- Course:              CSC 328
- 
- Professor:           Dr Frye
+ Created:                 12/2/2021
  
  Assignment:          (Rock, Paper, Scissors)
  
@@ -57,7 +53,7 @@ Author(s):           Tyler Laudenslager
  =========================================================================
  
  Responsibility Matrix:
-  Tyler Laudenslager: Server, library, client
+  Tyler Laudenslager: Server, Library, Client
  =========================================================================
  
  Application Protocol:
