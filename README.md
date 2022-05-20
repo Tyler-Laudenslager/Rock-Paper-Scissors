@@ -1,6 +1,8 @@
 # Rock-Paper-Scissors
 Multiprocessing Network Game Application written in Python3
 
+Play Me -> python rps_client.py lauden.cloud 6600
+
 =========================================================================
 
 Author(s):           Tyler Laudenslager
